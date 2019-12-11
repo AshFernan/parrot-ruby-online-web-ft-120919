@@ -3,5 +3,5 @@
 
 def parrot ("Squawk")
   puts "#{parrot}!"
-  return parrot
+  return 
 end
